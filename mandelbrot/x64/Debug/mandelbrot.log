@@ -1,0 +1,6 @@
+﻿  mandelbrot.cpp
+\\StuHomeEven\HomeDrive8$\1901418\GitHub\MandelBrot-Complete\mandelbrot\mandelbrot.cpp(215,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+\\StuHomeEven\HomeDrive8$\1901418\GitHub\MandelBrot-Complete\mandelbrot\mandelbrot.cpp(216,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+mandelbrot.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  mandelbrot.vcxproj -> \\StuHomeEven\HomeDrive8$\1901418\GitHub\MandelBrot-Complete\x64\Debug\mandelbrot.exe
